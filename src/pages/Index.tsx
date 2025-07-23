@@ -7,7 +7,7 @@ const Index = () => {
     <div 
       className="min-h-screen text-white relative"
       style={{
-        backgroundImage: 'linear-gradient(rgba(0,0,0,0.7), rgba(0,20,40,0.8)), url("/img/9177e8a1-9251-49aa-b6f4-3c7cc4e7ac8f.jpg")',
+        backgroundImage: 'linear-gradient(rgba(0,0,0,0.5), rgba(0,40,20,0.6)), url("/img/4739264a-6b9c-407f-a326-32e54cfd7355.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
